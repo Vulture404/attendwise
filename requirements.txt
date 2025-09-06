@@ -1,5 +1,7 @@
-numpy<2
+flask
+flask-cors
+opencv-python
 opencv-contrib-python
 pillow
-pandas
-streamlit
+numpy
+
